@@ -1,0 +1,140 @@
+[
+  {
+    "rank": 1,
+    "settlement": "Hojai",
+    "score": 70.0,
+    "reasons": [
+      "100% of 300 m buffer flooded [raster:assam_2022]",
+      "No ground reports despite flooding \u2014 likely cut off [raster:assam_2022]",
+      "Access road flooded [raster:assam_2022]",
+      "Rainfall anomaly: peak 134.8 mm, 3-day 355.6 mm [rainfall:assam_2022]"
+    ],
+    "sources": [
+      "raster:assam_2022",
+      "rainfall:assam_2022"
+    ],
+    "recommended_action": "Immediate evacuation required"
+  },
+  {
+    "rank": 2,
+    "settlement": "Kampur",
+    "score": 70.0,
+    "reasons": [
+      "100% of 300 m buffer flooded [raster:assam_2022]",
+      "No ground reports despite flooding \u2014 likely cut off [raster:assam_2022]",
+      "Access road flooded [raster:assam_2022]",
+      "Rainfall anomaly: peak 134.8 mm, 3-day 355.6 mm [rainfall:assam_2022]"
+    ],
+    "sources": [
+      "raster:assam_2022",
+      "rainfall:assam_2022"
+    ],
+    "recommended_action": "Immediate evacuation required"
+  },
+  {
+    "rank": 3,
+    "settlement": "Nagaon",
+    "score": 10.0,
+    "reasons": [
+      "Exposed facilities: school:Nagaon Govt High School [raster:assam_2022]",
+      "Rainfall anomaly: peak 134.8 mm, 3-day 355.6 mm [rainfall:assam_2022]"
+    ],
+    "sources": [
+      "raster:assam_2022",
+      "rainfall:assam_2022"
+    ],
+    "recommended_action": "Immediate assessment and relief dispatch"
+  },
+  {
+    "rank": 4,
+    "settlement": "Morigaon",
+    "score": 10.0,
+    "reasons": [
+      "Exposed facilities: school:Morigaon Girls School [raster:assam_2022]",
+      "Rainfall anomaly: peak 134.8 mm, 3-day 355.6 mm [rainfall:assam_2022]"
+    ],
+    "sources": [
+      "raster:assam_2022",
+      "rainfall:assam_2022"
+    ],
+    "recommended_action": "Immediate assessment and relief dispatch"
+  },
+  {
+    "rank": 5,
+    "settlement": "Guwahati",
+    "score": 5.0,
+    "reasons": [
+      "Rainfall anomaly: peak 134.8 mm, 3-day 355.6 mm [rainfall:assam_2022]"
+    ],
+    "sources": [
+      "raster:assam_2022",
+      "rainfall:assam_2022"
+    ],
+    "recommended_action": "Immediate assessment and relief dispatch"
+  },
+  {
+    "rank": 6,
+    "settlement": "Lumding",
+    "score": 5.0,
+    "reasons": [
+      "Rainfall anomaly: peak 134.8 mm, 3-day 355.6 mm [rainfall:assam_2022]"
+    ],
+    "sources": [
+      "raster:assam_2022",
+      "rainfall:assam_2022"
+    ],
+    "recommended_action": "Immediate assessment and relief dispatch"
+  },
+  {
+    "rank": 7,
+    "settlement": "Jagiroad",
+    "score": 5.0,
+    "reasons": [
+      "Rainfall anomaly: peak 134.8 mm, 3-day 355.6 mm [rainfall:assam_2022]"
+    ],
+    "sources": [
+      "raster:assam_2022",
+      "rainfall:assam_2022"
+    ],
+    "recommended_action": "Immediate assessment and relief dispatch"
+  },
+  {
+    "rank": 8,
+    "settlement": "Raha",
+    "score": 5.0,
+    "reasons": [
+      "Rainfall anomaly: peak 134.8 mm, 3-day 355.6 mm [rainfall:assam_2022]"
+    ],
+    "sources": [
+      "raster:assam_2022",
+      "rainfall:assam_2022"
+    ],
+    "recommended_action": "Immediate assessment and relief dispatch"
+  },
+  {
+    "rank": 9,
+    "settlement": "Dhing",
+    "score": 5.0,
+    "reasons": [
+      "Rainfall anomaly: peak 134.8 mm, 3-day 355.6 mm [rainfall:assam_2022]"
+    ],
+    "sources": [
+      "raster:assam_2022",
+      "rainfall:assam_2022"
+    ],
+    "recommended_action": "Immediate assessment and relief dispatch"
+  },
+  {
+    "rank": 10,
+    "settlement": "Khutikatia",
+    "score": 5.0,
+    "reasons": [
+      "Rainfall anomaly: peak 134.8 mm, 3-day 355.6 mm [rainfall:assam_2022]"
+    ],
+    "sources": [
+      "raster:assam_2022",
+      "rainfall:assam_2022"
+    ],
+    "recommended_action": "Immediate assessment and relief dispatch"
+  }
+]

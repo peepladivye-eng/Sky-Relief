@@ -1,0 +1,12 @@
+{
+  "summary_en": "FLOOD SITUATION REPORT — Brahmaputra Flood — Assam, June 2022 [raster:assam_2022]. Inundated area: 2697.0 km² (45.3% of region) [raster:assam_2022]. Peak rainfall: 135 mm/day [rainfall:assam_2022]. Highest priority: Hojai (score 70/100) — Immediate evacuation required [raster:assam_2022, rainfall:assam_2022]. ALERT: 2 settlement(s) flooded with no ground reports (possible comms blackout): Hojai, Kampur [raster:assam_2022].",
+  "summary_hi": "बाढ़ स्थिति रिपोर्ट — Brahmaputra Flood — Assam, June 2022 [raster:assam_2022]। जलमग्न क्षेत्र: 2697.0 वर्ग किमी [raster:assam_2022]। अधिकतम वर्षा: 135 मिमी/दिन [rainfall:assam_2022]। सर्वोच्च प्राथमिकता: Hojai — Immediate evacuation required [raster:assam_2022, rainfall:assam_2022]। चेतावनी: 2 गाँव जलमग्न, कोई रिपोर्ट नहीं: Hojai, Kampur [raster:assam_2022]।",
+  "whatsapp_brief_en": "FLOOD ALERT Brahmaputra Flood — : 2697km² flooded [raster:assam_2022]. Priority: Hojai — Immediate evacuation required. 2 silent-flooded villages!",
+  "whatsapp_brief_hi": "बाढ़ चेतावनी Brahmaputra Flo: 2697 वर्ग किमी जलमग्न [raster:assam_2022]। प्राथमिकता: Hojai। 2 गाँव संपर्क से बाहर!",
+  "limitations": [
+    "VLM visual verification not performed (API key not configured).",
+    "SAR C-band may miss urban flooding (double-bounce effect).",
+    "Ground reports may be incomplete; silent-flooded villages unverified.",
+    "Flood mask resolution ~10 m."
+  ]
+}

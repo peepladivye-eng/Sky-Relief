@@ -1,0 +1,100 @@
+[
+  {
+    "settlement": "Paddhar",
+    "lat": 31.745,
+    "lon": 76.965,
+    "flood_fraction": 1.0,
+    "facilities": [
+      "school:Govt School Paddhar"
+    ],
+    "road_flooded": false,
+    "silent_flooded": true
+  },
+  {
+    "settlement": "Bajaura",
+    "lat": 31.864,
+    "lon": 77.083,
+    "flood_fraction": 1.0,
+    "facilities": [],
+    "road_flooded": true,
+    "silent_flooded": true
+  },
+  {
+    "settlement": "Larji",
+    "lat": 31.826,
+    "lon": 76.988,
+    "flood_fraction": 1.0,
+    "facilities": [
+      "school:Govt School Larji"
+    ],
+    "road_flooded": true,
+    "silent_flooded": true
+  },
+  {
+    "settlement": "Aut",
+    "lat": 31.874,
+    "lon": 77.052,
+    "flood_fraction": 0.503,
+    "facilities": [
+      "bridge:Aut Bridge NH-3"
+    ],
+    "road_flooded": true,
+    "silent_flooded": true
+  },
+  {
+    "settlement": "Mandi",
+    "lat": 31.709,
+    "lon": 76.922,
+    "flood_fraction": 0.0,
+    "facilities": [
+      "school:Govt Senior Secondary School Mandi"
+    ],
+    "road_flooded": false,
+    "silent_flooded": false
+  },
+  {
+    "settlement": "Kullu",
+    "lat": 31.9579,
+    "lon": 77.1095,
+    "flood_fraction": 0.0,
+    "facilities": [],
+    "road_flooded": false,
+    "silent_flooded": false
+  },
+  {
+    "settlement": "Sundernagar",
+    "lat": 31.535,
+    "lon": 76.899,
+    "flood_fraction": 0.0,
+    "facilities": [],
+    "road_flooded": false,
+    "silent_flooded": false
+  },
+  {
+    "settlement": "Bhuntar",
+    "lat": 31.878,
+    "lon": 77.168,
+    "flood_fraction": 0.0,
+    "facilities": [],
+    "road_flooded": false,
+    "silent_flooded": false
+  },
+  {
+    "settlement": "Banjar",
+    "lat": 31.638,
+    "lon": 77.034,
+    "flood_fraction": 0.0,
+    "facilities": [],
+    "road_flooded": false,
+    "silent_flooded": false
+  },
+  {
+    "settlement": "Karsog",
+    "lat": 31.382,
+    "lon": 76.997,
+    "flood_fraction": 0.0,
+    "facilities": [],
+    "road_flooded": false,
+    "silent_flooded": false
+  }
+]

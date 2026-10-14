@@ -1,0 +1,85 @@
+{
+  "reports": [
+    {
+      "id": "hp_r01",
+      "text": "NH-3 blocked near Aut",
+      "source": "news",
+      "source_url": null,
+      "place": "Aut",
+      "lat": 31.874,
+      "lon": 77.052,
+      "need": "road clearance",
+      "urgency": 3,
+      "count": null,
+      "status": "confirmed"
+    },
+    {
+      "id": "hp_r02",
+      "text": "Larji submerged, evacuation needed",
+      "source": "news",
+      "source_url": null,
+      "place": "Larji",
+      "lat": 31.826,
+      "lon": 76.988,
+      "need": "evacuation",
+      "urgency": 3,
+      "count": 200,
+      "status": "confirmed"
+    },
+    {
+      "id": "hp_r07",
+      "text": "Sundernagar manageable",
+      "source": "news",
+      "source_url": null,
+      "place": "Sundernagar",
+      "lat": 31.535,
+      "lon": 76.899,
+      "need": "food",
+      "urgency": 1,
+      "count": 200,
+      "status": "contradicted"
+    }
+  ],
+  "exposures": [
+    {
+      "settlement": "Larji",
+      "lat": 31.826,
+      "lon": 76.988,
+      "flood_fraction": 0.65,
+      "facilities": [
+        "hospital:CHC Larji"
+      ],
+      "road_flooded": true,
+      "silent_flooded": false
+    },
+    {
+      "settlement": "Aut",
+      "lat": 31.874,
+      "lon": 77.052,
+      "flood_fraction": 0.3,
+      "facilities": [],
+      "road_flooded": true,
+      "silent_flooded": false
+    },
+    {
+      "settlement": "Mandi",
+      "lat": 31.709,
+      "lon": 76.922,
+      "flood_fraction": 0.05,
+      "facilities": [
+        "hospital:Zonal Hospital Mandi"
+      ],
+      "road_flooded": false,
+      "silent_flooded": true
+    },
+    {
+      "settlement": "Sundernagar",
+      "lat": 31.535,
+      "lon": 76.899,
+      "flood_fraction": 0.0,
+      "facilities": [],
+      "road_flooded": false,
+      "silent_flooded": false
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "reports": [
+    {
+      "id": "as_r01",
+      "text": "Nagaon district worst affected. Over 2 lakh people displaced. Relief camps overflowing. More food and drinking water needed urgently.",
+      "source": "news",
+      "source_url": "https://www.thehindu.com/news/national/assam-floods-2022-nagaon",
+      "place": "Nagaon",
+      "lat": 92.6864,
+      "lon": 26.3479,
+      "need": "food, water",
+      "urgency": 3,
+      "count": 200000,
+      "status": "contradicted"
+    },
+    {
+      "id": "as_r02",
+      "text": "Morigaon town partially under water. Brahmaputra breach point identified near old embankment. Breach width approximately 200 metres.",
+      "source": "news",
+      "source_url": "https://www.ndtv.com/india-news/morigaon-brahmaputra-breach-2022",
+      "place": "Morigaon",
+      "lat": 92.3395,
+      "lon": 26.249,
+      "need": "embankment repair",
+      "urgency": 3,
+      "count": null,
+      "status": "contradicted"
+    },
+    {
+      "id": "as_r03",
+      "text": "Kampur completely flooded since June 13. No road access. NDRF team airlifted supplies yesterday. Hospital patients need evacuation.",
+      "source": "news",
+      "source_url": "https://www.indiatoday.in/india/story/kampur-floods-assam-2022",
+      "place": "Kampur",
+      "lat": 92.78,
+      "lon": 26.26,
+      "need": "medical evacuation",
+      "urgency": 3,
+      "count": 40,
+      "status": "contradicted"
+    },
+    {
+      "id": "as_r04",
+      "text": "Dhing area flood situation improving slightly. Stranded families being brought to relief camps. Around 6000 people affected.",
+      "source": "news",
+      "source_url": "https://www.tribuneindia.com/news/nation/dhing-assam-flood-2022",
+      "place": "Dhing",
+      "lat": 92.472,
+      "lon": 26.47,
+      "need": "shelter",
+      "urgency": 2,
+      "count": 6000,
+      "status": "contradicted"
+    },
+    {
+      "id": "as_r05",
+      "text": "Raha town waterlogged but no casualties reported. Markets closed. Schools being used as relief shelters. Food supply running low.",
+      "source": "news",
+      "source_url": "https://www.hindustantimes.com/india-news/raha-assam-flood-2022",
+      "place": "Raha",
+      "lat": 92.607,
+      "lon": 26.225,
+      "need": "food",
+      "urgency": 2,
+      "count": 2000,
+      "status": "contradicted"
+    },
+    {
+      "id": "as_r06",
+      "text": "Jagiroad area embankment breached. Entire low-lying section of town under 3 feet of water. Elderly residents cannot evacuate without help.",
+      "source": "news",
+      "source_url": "https://www.thehindu.com/news/national/jagiroad-breach-2022",
+      "place": "Jagiroad",
+      "lat": 92.167,
+      "lon": 26.294,
+      "need": "evacuation assistance",
+      "urgency": 3,
+      "count": 150,
+      "status": "contradicted"
+    },
+    {
+      "id": "as_r07",
+      "text": "Nagaon Civil Hospital compound flooded. Ground floor abandoned. Patients shifted to upper floors. Surgery cancelled. Need generators.",
+      "source": "news",
+      "source_url": "https://www.ndtv.com/india-news/nagaon-hospital-flood-2022",
+      "place": "Nagaon",
+      "lat": 92.69,
+      "lon": 26.35,
+      "need": "generators, medical support",
+      "urgency": 3,
+      "count": 80,
+      "status": "contradicted"
+    },
+    {
+      "id": "as_r08",
+      "text": "NH-37 submerged between Morigaon and Nagaon. All traffic diverted via state highway. Supply trucks unable to reach relief camps.",
+      "source": "news",
+      "source_url": "https://www.indiatoday.in/india/story/nh37-flooded-assam-2022",
+      "place": "Morigaon",
+      "lat": 92.33,
+      "lon": 26.31,
+      "need": "road clearance",
+      "urgency": 2,
+      "count": null,
+      "status": "contradicted"
+    },
+    {
+      "id": "as_r09",
+      "text": "Hojai district: river embankment under severe stress. Locals report seepage and potential breach. Local MLA requests urgent survey.",
+      "source": "news",
+      "source_url": "https://www.tribuneindia.com/news/nation/hojai-embankment-2022",
+      "place": "Hojai",
+      "lat": 92.856,
+      "lon": 26.002,
+      "need": "engineering survey",
+      "urgency": 2,
+      "count": null,
+      "status": "contradicted"
+    },
+    {
+      "id": "as_r10",
+      "text": "Khutikatia village: no contact for 5 days. Satellite phone network down. Last known information: flooding reached 4 feet inside homes.",
+      "source": "news",
+      "source_url": "https://www.thehindu.com/news/national/khutikatia-assam-2022",
+      "place": "Khutikatia",
+      "lat": 92.582,
+      "lon": 26.19,
+      "need": "unknown",
+      "urgency": 3,
+      "count": null,
+      "status": "contradicted"
+    },
+    {
+      "id": "as_r11",
+      "text": "Lumding railway junction flooded. Southeast sector cut off. Goods trains cancelled. Passenger services severely disrupted.",
+      "source": "news",
+      "source_url": "https://www.ndtv.com/india-news/lumding-railway-flood-2022",
+      "place": "Lumding",
+      "lat": 93.169,
+      "lon": 25.75,
+      "need": "infrastructure repair",
+      "urgency": 1,
+      "count": null,
+      "status": "contradicted"
+    }
+  ],
+  "exposures": [
+    {
+      "settlement": "Hojai",
+      "lat": 26.002,
+      "lon": 92.856,
+      "flood_fraction": 1.0,
+      "facilities": [],
+      "road_flooded": true,
+      "silent_flooded": true
+    },
+    {
+      "settlement": "Kampur",
+      "lat": 26.26,
+      "lon": 92.78,
+      "flood_fraction": 1.0,
+      "facilities": [],
+      "road_flooded": true,
+      "silent_flooded": true
+    },
+    {
+      "settlement": "Guwahati",
+      "lat": 26.1445,
+      "lon": 91.7362,
+      "flood_fraction": 0.0,
+      "facilities": [],
+      "road_flooded": false,
+      "silent_flooded": false
+    },
+    {
+      "settlement": "Nagaon",
+      "lat": 26.3479,
+      "lon": 92.6864,
+      "flood_fraction": 0.0,
+      "facilities": [
+        "school:Nagaon Govt High School"
+      ],
+      "road_flooded": false,
+      "silent_flooded": false
+    },
+    {
+      "settlement": "Morigaon",
+      "lat": 26.249,
+      "lon": 92.3395,
+      "flood_fraction": 0.0,
+      "facilities": [
+        "school:Morigaon Girls School"
+      ],
+      "road_flooded": false,
+      "silent_flooded": false
+    },
+    {
+      "settlement": "Raha",
+      "lat": 26.225,
+      "lon": 92.607,
+      "flood_fraction": 0.0,
+      "facilities": [],
+      "road_flooded": false,
+      "silent_flooded": false
+    },
+    {
+      "settlement": "Khutikatia",
+      "lat": 26.19,
+      "lon": 92.582,
+      "flood_fraction": 0.0,
+      "facilities": [],
+      "road_flooded": false,
+      "silent_flooded": false
+    },
+    {
+      "settlement": "Dhing",
+      "lat": 26.47,
+      "lon": 92.472,
+      "flood_fraction": 0.0,
+      "facilities": [],
+      "road_flooded": false,
+      "silent_flooded": false
+    },
+    {
+      "settlement": "Jagiroad",
+      "lat": 26.294,
+      "lon": 92.167,
+      "flood_fraction": 0.0,
+      "facilities": [],
+      "road_flooded": false,
+      "silent_flooded": false
+    },
+    {
+      "settlement": "Lumding",
+      "lat": 25.75,
+      "lon": 93.169,
+      "flood_fraction": 0.0,
+      "facilities": [],
+      "road_flooded": false,
+      "silent_flooded": false
+    }
+  ]
+}

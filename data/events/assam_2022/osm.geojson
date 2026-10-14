@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Guwahati", "population": 957352},
+      "geometry": {"type": "Point", "coordinates": [91.7362, 26.1445]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Nagaon", "population": 139892},
+      "geometry": {"type": "Point", "coordinates": [92.6864, 26.3479]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Morigaon", "population": 51430},
+      "geometry": {"type": "Point", "coordinates": [92.3395, 26.2490]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Hojai", "population": 62413},
+      "geometry": {"type": "Point", "coordinates": [92.8560, 26.0020]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Kampur", "population": 18200},
+      "geometry": {"type": "Point", "coordinates": [92.7800, 26.2600]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Raha", "population": 14500},
+      "geometry": {"type": "Point", "coordinates": [92.6070, 26.2250]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Khutikatia", "population": 3800},
+      "geometry": {"type": "Point", "coordinates": [92.5820, 26.1900]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Dhing", "population": 8900},
+      "geometry": {"type": "Point", "coordinates": [92.4720, 26.4700]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Jagiroad", "population": 22100},
+      "geometry": {"type": "Point", "coordinates": [92.1670, 26.2940]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Lumding", "population": 52670},
+      "geometry": {"type": "Point", "coordinates": [93.1690, 25.7500]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "hospital", "name": "Gauhati Medical College", "population": null},
+      "geometry": {"type": "Point", "coordinates": [91.7380, 26.1500]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "hospital", "name": "Nagaon Civil Hospital", "population": null},
+      "geometry": {"type": "Point", "coordinates": [92.6900, 26.3500]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "hospital", "name": "Morigaon District Hospital", "population": null},
+      "geometry": {"type": "Point", "coordinates": [92.3420, 26.2520]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "school", "name": "Nagaon Govt High School", "population": null},
+      "geometry": {"type": "Point", "coordinates": [92.6880, 26.3490]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "school", "name": "Morigaon Girls School", "population": null},
+      "geometry": {"type": "Point", "coordinates": [92.3400, 26.2480]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "bridge", "name": "Saraighat Bridge", "population": null},
+      "geometry": {"type": "Point", "coordinates": [91.6500, 26.1700]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "bridge", "name": "Nagaon Bridge NH-37", "population": null},
+      "geometry": {"type": "Point", "coordinates": [92.6900, 26.2800]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "bridge", "name": "Morigaon Brahmaputra Crossing", "population": null},
+      "geometry": {"type": "Point", "coordinates": [92.3300, 26.3100]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "road", "name": "NH-37 Assam Trunk Road", "highway": "national"},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [92.1670, 26.2940], [92.3395, 26.2490], [92.6070, 26.2250],
+          [92.6864, 26.3479], [92.7800, 26.2600], [92.8560, 26.0020]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "road", "name": "NH-27 East-West Corridor", "highway": "national"},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [92.4720, 26.4700], [92.6070, 26.2250], [92.7800, 26.2600]
+        ]
+      }
+    }
+  ]
+}

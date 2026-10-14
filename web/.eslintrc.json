@@ -1,0 +1,20 @@
+{
+  "extends": ["next/core-web-vitals", "next/typescript"],
+  "rules": {
+    "@typescript-eslint/no-explicit-any": "off"
+  },
+  "overrides": [
+    {
+      "files": ["components/DeckGLOverlay.tsx"],
+      "rules": { "@typescript-eslint/no-explicit-any": "off" }
+    },
+    {
+      "files": ["components/MapView.tsx"],
+      "rules": { "@typescript-eslint/no-unused-vars": ["warn", { "argsIgnorePattern": "^_|mapLayer" }] }
+    },
+    {
+      "files": ["components/PriorityList.tsx"],
+      "rules": { "@typescript-eslint/no-unused-vars": ["warn", { "argsIgnorePattern": "^_|lang" }] }
+    }
+  ]
+}

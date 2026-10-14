@@ -1,0 +1,10 @@
+{
+  "event_id": "himachal_2023",
+  "name": "Beas River Flood — Mandi/Kullu, Himachal Pradesh, July 2023",
+  "bbox": [76.85, 31.65, 77.25, 32.05],
+  "before_date": "2023-07-05",
+  "after_date": "2023-07-14",
+  "sensor": "sentinel-1",
+  "water_db": -16.0,
+  "notes": "Beas river catastrophic flooding triggered by 3-day cloudburst. Hero event — local to IIT Mandi."
+}

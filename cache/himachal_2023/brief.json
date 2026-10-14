@@ -1,0 +1,12 @@
+{
+  "summary_en": "FLOOD SITUATION REPORT — Beas River Flood — Mandi/Kullu, Himachal Pradesh, July 2023 [raster:himachal_2023]. Inundated area: 509.8 km² (25.7% of region) [raster:himachal_2023]. Peak rainfall: 114 mm/day [rainfall:himachal_2023]. Highest priority: SilentVillage (score 40/100) — Immediate evacuation required [raster:himachal_2023, rainfall:himachal_2023]. ALERT: 1 settlement(s) flooded with no ground reports (possible comms blackout): Mandi [raster:himachal_2023].",
+  "summary_hi": "बाढ़ स्थिति रिपोर्ट — Beas River Flood — Mandi/Kullu, Himachal Pradesh, July 2023 [raster:himachal_2023]। जलमग्न क्षेत्र: 509.8 वर्ग किमी [raster:himachal_2023]। अधिकतम वर्षा: 114 मिमी/दिन [rainfall:himachal_2023]। सर्वोच्च प्राथमिकता: SilentVillage — Immediate evacuation required [raster:himachal_2023, rainfall:himachal_2023]। चेतावनी: 1 गाँव जलमग्न, कोई रिपोर्ट नहीं: Mandi [raster:himachal_2023]।",
+  "whatsapp_brief_en": "FLOOD ALERT Beas River Flood — M: 510km² flooded [raster:himachal_2023]. Priority: SilentVillage — Immediate evacuation required. 1 silent-flooded villages!",
+  "whatsapp_brief_hi": "बाढ़ चेतावनी Beas River Floo: 510 वर्ग किमी जलमग्न [raster:himachal_2023]। प्राथमिकता: SilentVillage। 1 गाँव संपर्क से बाहर!",
+  "limitations": [
+    "VLM visual verification not performed (API key not configured).",
+    "SAR C-band may miss urban flooding (double-bounce effect).",
+    "Ground reports may be incomplete; silent-flooded villages unverified.",
+    "Flood mask resolution ~10 m."
+  ]
+}

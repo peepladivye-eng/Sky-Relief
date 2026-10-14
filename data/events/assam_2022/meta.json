@@ -1,0 +1,10 @@
+{
+  "event_id": "assam_2022",
+  "name": "Brahmaputra Flood — Assam, June 2022",
+  "bbox": [92.50, 25.80, 93.30, 26.40],
+  "before_date": "2022-06-10",
+  "after_date": "2022-06-20",
+  "sensor": "sentinel-1",
+  "water_db": -16.0,
+  "notes": "Large-area inundation across Brahmaputra floodplain affecting multiple districts."
+}

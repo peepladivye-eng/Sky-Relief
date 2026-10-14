@@ -1,0 +1,16 @@
+{
+  "mask_plausible": true,
+  "false_positive_notes": [
+    "VLM unavailable - mask not visually verified.",
+    "SAR shadow artefacts may exist in steep terrain."
+  ],
+  "damage_observations": [
+    "Visual verification skipped (no VLM API key or image prep failed)."
+  ],
+  "caveats": [
+    "VLM check not performed. Flood extent based on SAR raster math only.",
+    "SAR C-band (Sentinel-1) can miss urban flooding due to double-bounce.",
+    "Mask resolution ~10 m; sub-pixel inundation not captured."
+  ],
+  "confidence": 0.0
+}

@@ -1,0 +1,108 @@
+/* SkyRelief Design Tokens - Dark Theme Default */
+
+:root {
+  /* Backgrounds */
+  --bg: #0A131A;
+  --panel: #101C25;
+  --panel-2: #16242E;
+  --sunken: #0D1820;
+  
+  /* Lines & Borders */
+  --line: #25363F;
+  --line-soft: #1D2D37;
+  --line-ctl: #2D404B;
+  
+  /* Text */
+  --ink: #E7EEF0;
+  --ink-2: #C5D3DA;
+  --ink-3: #9DB0B9;
+  
+  /* Semantic Colors */
+  --flood: #4C9BFF;
+  --flood-fill: #2F7FE8;
+  --silent: #FF5C80;
+  --confirmed: #37C4AB;
+  --warn: #E8A33D;
+  
+  /* Chip Tints (Dark) */
+  --chip-silent-bg: #3A1520;
+  --chip-silent-text: #FF9DB3;
+  --chip-silent-border: #6A2538;
+  
+  --chip-flooded-bg: #1B2B36;
+  --chip-flooded-text: #C5D3DA;
+  
+  --chip-warn-bg: #3A2A0E;
+  --chip-warn-text: #F2C06A;
+  
+  --chip-ok-bg: #0F2E2A;
+  --chip-ok-text: #7FDCCB;
+  
+  /* Radii */
+  --radius-panel: 12px;
+  --radius-control: 8px;
+  --radius-chip: 999px;
+  
+  /* Shadow */
+  --shadow-float: 0 10px 30px #00000066;
+  
+  /* Transitions */
+  --transition-hover: 120ms ease-out;
+}
+
+/* Light Theme Override */
+[data-theme="light"] {
+  --bg: #EEF1EF;
+  --panel: #F8FAF9;
+  --panel-2: #FFFFFF;
+  --sunken: #E4E9E7;
+  
+  --line: #CBD3D0;
+  --line-soft: #DDE3E1;
+  --line-ctl: #B8C4C0;
+  
+  --ink: #14212B;
+  --ink-2: #2C3940;
+  --ink-3: #4C5B66;
+  
+  --flood: #0B63CE;
+  --flood-fill: #0B63CE;
+  --silent: #E0315B;
+  --confirmed: #0F8F7A;
+  --warn: #C77700;
+  
+  --chip-silent-bg: #FFE5EB;
+  --chip-silent-text: #C7003D;
+  --chip-silent-border: #FFB3C7;
+  
+  --chip-flooded-bg: #E5F2FF;
+  --chip-flooded-text: #054A8C;
+  
+  --chip-warn-bg: #FFF4E5;
+  --chip-warn-text: #995900;
+  
+  --chip-ok-bg: #E5F7F4;
+  --chip-ok-text: #0A6B5D;
+  
+  --shadow-float: 0 6px 20px #00000020;
+}
+
+/* Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Typography Variants */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Focus Ring */
+*:focus-visible {
+  outline: 2px solid var(--flood);
+  outline-offset: 2px;
+}

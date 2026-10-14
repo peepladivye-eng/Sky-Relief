@@ -1,0 +1,96 @@
+[
+  {
+    "settlement": "Hojai",
+    "lat": 26.002,
+    "lon": 92.856,
+    "flood_fraction": 1.0,
+    "facilities": [],
+    "road_flooded": true,
+    "silent_flooded": true
+  },
+  {
+    "settlement": "Kampur",
+    "lat": 26.26,
+    "lon": 92.78,
+    "flood_fraction": 1.0,
+    "facilities": [],
+    "road_flooded": true,
+    "silent_flooded": true
+  },
+  {
+    "settlement": "Guwahati",
+    "lat": 26.1445,
+    "lon": 91.7362,
+    "flood_fraction": 0.0,
+    "facilities": [],
+    "road_flooded": false,
+    "silent_flooded": false
+  },
+  {
+    "settlement": "Nagaon",
+    "lat": 26.3479,
+    "lon": 92.6864,
+    "flood_fraction": 0.0,
+    "facilities": [
+      "school:Nagaon Govt High School"
+    ],
+    "road_flooded": false,
+    "silent_flooded": false
+  },
+  {
+    "settlement": "Morigaon",
+    "lat": 26.249,
+    "lon": 92.3395,
+    "flood_fraction": 0.0,
+    "facilities": [
+      "school:Morigaon Girls School"
+    ],
+    "road_flooded": false,
+    "silent_flooded": false
+  },
+  {
+    "settlement": "Raha",
+    "lat": 26.225,
+    "lon": 92.607,
+    "flood_fraction": 0.0,
+    "facilities": [],
+    "road_flooded": false,
+    "silent_flooded": false
+  },
+  {
+    "settlement": "Khutikatia",
+    "lat": 26.19,
+    "lon": 92.582,
+    "flood_fraction": 0.0,
+    "facilities": [],
+    "road_flooded": false,
+    "silent_flooded": false
+  },
+  {
+    "settlement": "Dhing",
+    "lat": 26.47,
+    "lon": 92.472,
+    "flood_fraction": 0.0,
+    "facilities": [],
+    "road_flooded": false,
+    "silent_flooded": false
+  },
+  {
+    "settlement": "Jagiroad",
+    "lat": 26.294,
+    "lon": 92.167,
+    "flood_fraction": 0.0,
+    "facilities": [],
+    "road_flooded": false,
+    "silent_flooded": false
+  },
+  {
+    "settlement": "Lumding",
+    "lat": 25.75,
+    "lon": 93.169,
+    "flood_fraction": 0.0,
+    "facilities": [],
+    "road_flooded": false,
+    "silent_flooded": false
+  }
+]

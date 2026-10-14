@@ -1,0 +1,31 @@
+[
+  {
+    "rank": 1,
+    "settlement": "SilentVillage",
+    "score": 40.0,
+    "reasons": [
+      "50% of 300 m buffer flooded [raster:himachal_2023]",
+      "No ground reports despite flooding \u2014 likely cut off [raster:himachal_2023]",
+      "Rainfall anomaly: peak 114.2 mm, 3-day 301.2 mm [rainfall:himachal_2023]"
+    ],
+    "sources": [
+      "raster:himachal_2023",
+      "rainfall:himachal_2023"
+    ],
+    "recommended_action": "Immediate evacuation required"
+  },
+  {
+    "rank": 2,
+    "settlement": "TestVillage",
+    "score": 25.0,
+    "reasons": [
+      "50% of 300 m buffer flooded [raster:himachal_2023]",
+      "Rainfall anomaly: peak 114.2 mm, 3-day 301.2 mm [rainfall:himachal_2023]"
+    ],
+    "sources": [
+      "raster:himachal_2023",
+      "rainfall:himachal_2023"
+    ],
+    "recommended_action": "Immediate assessment and relief dispatch"
+  }
+]

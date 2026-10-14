@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Mandi", "population": 26422},
+      "geometry": {"type": "Point", "coordinates": [76.9220, 31.7090]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Kullu", "population": 18306},
+      "geometry": {"type": "Point", "coordinates": [77.1095, 31.9579]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Paddhar", "population": 3200},
+      "geometry": {"type": "Point", "coordinates": [76.9650, 31.7450]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Sundernagar", "population": 17382},
+      "geometry": {"type": "Point", "coordinates": [76.8990, 31.5350]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Aut", "population": 1850},
+      "geometry": {"type": "Point", "coordinates": [77.0520, 31.8740]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Bajaura", "population": 2100},
+      "geometry": {"type": "Point", "coordinates": [77.0830, 31.8640]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Bhuntar", "population": 6540},
+      "geometry": {"type": "Point", "coordinates": [77.1680, 31.8780]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Larji", "population": 1200},
+      "geometry": {"type": "Point", "coordinates": [76.9880, 31.8260]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Banjar", "population": 2890},
+      "geometry": {"type": "Point", "coordinates": [77.0340, 31.6380]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "settlement", "name": "Karsog", "population": 3100},
+      "geometry": {"type": "Point", "coordinates": [76.9970, 31.3820]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "hospital", "name": "Zonal Hospital Mandi", "population": null},
+      "geometry": {"type": "Point", "coordinates": [76.9180, 31.7110]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "hospital", "name": "Civil Hospital Kullu", "population": null},
+      "geometry": {"type": "Point", "coordinates": [77.1060, 31.9620]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "hospital", "name": "CHC Paddhar", "population": null},
+      "geometry": {"type": "Point", "coordinates": [76.9680, 31.7430]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "school", "name": "Govt Senior Secondary School Mandi", "population": null},
+      "geometry": {"type": "Point", "coordinates": [76.9200, 31.7080]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "school", "name": "Govt School Paddhar", "population": null},
+      "geometry": {"type": "Point", "coordinates": [76.9640, 31.7460]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "school", "name": "Govt School Larji", "population": null},
+      "geometry": {"type": "Point", "coordinates": [76.9860, 31.8270]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "bridge", "name": "Beas Bridge Mandi", "population": null},
+      "geometry": {"type": "Point", "coordinates": [76.9150, 31.7100]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "bridge", "name": "Larji Bridge", "population": null},
+      "geometry": {"type": "Point", "coordinates": [76.9850, 31.8280]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "bridge", "name": "Aut Bridge NH-3", "population": null},
+      "geometry": {"type": "Point", "coordinates": [77.0500, 31.8760]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "road", "name": "NH-3 Mandi-Kullu", "highway": "primary"},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [76.9220, 31.7090], [76.9500, 31.7400], [76.9880, 31.8260],
+          [77.0520, 31.8740], [77.0830, 31.8640], [77.1095, 31.9579]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"type": "road", "name": "NH-21 Bypass Sundernagar", "highway": "primary"},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [76.8990, 31.5350], [76.9100, 31.6200], [76.9220, 31.7090]
+        ]
+      }
+    }
+  ]
+}
